@@ -1,0 +1,14 @@
+Detectar colisão.
+
+1 - entre pontos. done
+2 - ponto e retângulo. done
+3 - ponto e circulo. done
+4 - circulo e circulo. done
+5 - retângulo e retângulo. done
+6 - retângulo e círculo. done
+7 - linha e ponto. done
+8 - linha e circulo. done
+9 - linha e linha.
+10 - linha e retângulo.
+11 - triangulo e ponto.
+

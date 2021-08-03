@@ -1,0 +1,17 @@
+segundo vídeo deteção de colisões
+Vamos aprender a detetar mais dois tipos de colisão:
+Colisão entre Círculo e Retângulo.
+Colisão entre Linha e Ponto.
+
+00:00 - 00:50 Apresentação do conteúdo.
+00:50 - 02:45 configurando ambiente do círculo e retângulo. 
+02:45 - 11:34 explicação no paint.
+11:34 - 17:00 conectando o ponto a extremidade do retângulo.
+17:00 - 19:30 deteta colisão entre círculo e retângulo.
+19:30 - 22:50 analisando bug.
+22:50 - 23:25 testando a colisão.
+23:25 - 27:20 configurando ambiente de uma linha e ponto.
+27:20 - 36:34 explicando no paint.
+36:34 - 48:06 deteta colisão entre linha e ponto.
+
+

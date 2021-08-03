@@ -1,0 +1,16 @@
+primeiro video detecteção de colisões
+
+00:00:00 - 00:01:00 Minha apresentação.
+00:01:50 - 00:03:00 Apresentação do conteúdo.
+00:04:00 - 00:06:00 falando de sistemas de colisões globalmente.
+00:06:00 - 00:10:00 inicializando o ambiente.
+00:10:00 - 00:12:00 pegando o contexto da API do canvas.
+00:12:15 - 00:16:00 definindo o que é ponto.
+00:16:00 - 00:17:00 adicionar metodo point para proto da api do canvas.
+00:17:00 - 00:24:00 configurar o ambiente para detecção de colisão.
+00:24:00 - 00:27:00 deteção de colisão entre pontos. 
+00:27:00 - 00:35:30 deteção de colisão entre ponto e retângulo.
+00:35:30 - 00:49:00 deteção de colisão entre ponto e círculo.
+00:49:40 - 00:59:00 deteção de colisão entre círculo.
+00:59:00 - 01:13:46 deteção de colisão entre retângulo.
+
