@@ -115,7 +115,6 @@ function collideRectToCircle () {
   let dy = mouse.y - y
 
   let mag = Math.sqrt(dx ** 2 + dy ** 2)
-  console.log(mag)
   if (mag < 60) color = "#f00"
   ctx.save()
   ctx.fillStyle = color

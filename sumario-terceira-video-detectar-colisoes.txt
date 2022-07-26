@@ -1,0 +1,3 @@
+
+Colisão entre triângulo e ponto.
+colisão entre linhas
